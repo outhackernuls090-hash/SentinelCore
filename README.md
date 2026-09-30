@@ -7,7 +7,7 @@ from a Windows admin console, a cross-platform CLI, or the HTTP API directly.
 
 This is not a replacement for a full commercial EDR — it is a transparent, self-hosted, host-level
 detection and response tool, matching the V1 scope of the original design document (see
-`CHANGELOG.md` for exactly what's in and what's deferred to V2).
+[CHANGELOG](./CHANGELOG.md) for exactly what's in and what's deferred to V2).
 
 ## Components
 
