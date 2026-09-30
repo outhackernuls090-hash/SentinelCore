@@ -1,0 +1,16 @@
+[Unit]
+Description=SentinelCore Agent
+After=network.target
+
+[Service]
+Type=simple
+WorkingDirectory=/opt/sentinelcore
+ExecStart=/usr/bin/dotnet /opt/sentinelcore/SentinelServer.dll
+Restart=always
+RestartSec=5
+User=root
+AmbientCapabilities=CAP_NET_ADMIN CAP_NET_RAW
+SyslogIdentifier=sentinelcore
+
+[Install]
+WantedBy=multi-user.target
