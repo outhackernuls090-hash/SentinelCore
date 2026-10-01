@@ -1,72 +1,163 @@
 Copyright (c) 2026 ARASAKA CORP
 All rights reserved.
 
-SOURCE-AVAILABLE NON-COMMERCIAL LICENSE
+# SOURCE-AVAILABLE NON-COMMERCIAL LICENSE
 
-1. Grant of Rights
+## 1. Grant of Rights
 
-You may modify the software for personal, non-commercial purposes.
-You may not distribute or commercially use modified versions without
-a separate commercial license.
+Subject to the terms of this License, you may:
 
-2. Restrictions
+* use the software for personal, non-commercial purposes;
+* inspect and study the source code;
+* modify the software for personal, non-commercial purposes;
+* run modified versions for personal, non-commercial purposes.
 
-Without a separate written commercial license from the copyright
-holder, you may not:
+These rights do not include commercial use, redistribution, commercial hosting, or other restricted uses described below.
 
-- use this software for commercial purposes;
-- use this software within or on behalf of a commercial organization;
-- sell, rent, lease, sublicense, or otherwise commercialize this software;
-- provide this software as part of a paid service or product;
-- redistribute this software or substantial portions of its source code;
-- publish modified versions of this software;
-- use modified versions of this software for commercial purposes;
-- remove or alter copyright, license, or attribution notices.
+## 2. Non-Commercial Restrictions
 
-3. Commercial License
+Without a separate written commercial license or evaluation license from the copyright holder, you may not:
 
-Commercial use requires a separate written license agreement with
-the copyright holder.
+* use this software for commercial purposes;
+* use this software within or on behalf of a commercial organization;
+* use this software to provide services to customers or other third parties;
+* sell, rent, lease, sublicense, or otherwise commercialize this software;
+* provide this software as part of a paid service or product;
+* commercially host or operate the software;
+* redistribute the software or substantial portions of its source code;
+* publish or distribute modified versions of the software;
+* use modified versions of the software for commercial purposes;
+* remove or alter copyright, license, or attribution notices.
 
-Commercial licenses may specify additional terms, including but not
-limited to:
+## 3. Free 30-Day Evaluation License
 
-- number of users;
-- number of installations;
-- duration of the license;
-- permitted commercial purposes;
-- redistribution rights;
-- modification rights;
-- support and update rights.
+Commercial organizations may request a **free 30-day evaluation license** for the purpose of testing and evaluating SentinelCore.
 
-Commercial licenses are granted only when explicitly agreed to in
-writing by the copyright holder.
+An evaluation license is granted only when explicitly approved in writing by ARASAKA CORP.
 
-4. Ownership
+The evaluation license may permit the requesting organization to:
 
-The software and its source code remain the property of the
-copyright holder.
+* install SentinelCore on evaluation systems;
+* run SentinelCore in a test, development, laboratory, or limited production environment;
+* evaluate its security features and functionality;
+* evaluate performance, compatibility, detection capabilities, and operational suitability;
+* integrate SentinelCore with internal systems solely for evaluation purposes;
+* provide reasonable feedback to ARASAKA CORP regarding the evaluation.
+
+The evaluation period begins on the date specified in the written evaluation approval and expires automatically after **30 calendar days**, unless ARASAKA CORP agrees in writing to extend the evaluation period.
+
+The evaluation license is:
+
+* free of charge;
+* non-transferable;
+* non-sublicensable;
+* limited to the organization named in the written approval;
+* limited to the number of installations, users, systems, or other conditions specified in the written approval.
+
+The evaluation license does not grant the organization a continuing right to commercially use SentinelCore after the evaluation period expires.
+
+After the evaluation period ends, the organization must either:
+
+1. obtain an appropriate commercial license from ARASAKA CORP; or
+2. stop using SentinelCore and delete or disable its evaluation installations and copies, except where retention is required by law.
+
+An evaluation license does not automatically convert into a commercial license.
+
+## 4. Requesting an Evaluation License
+
+Organizations wishing to evaluate SentinelCore may request a 30-day evaluation license by contacting:
+
+**ARASAKA CORP**
+[contact@arasaka-corp.eu](mailto:contact@arasaka-corp.eu)
+
+Evaluation requests may include:
+
+* organization name;
+* intended use;
+* number of systems or installations;
+* operating systems;
+* expected evaluation period;
+* technical contact;
+* any other information reasonably required to determine the appropriate evaluation terms.
+
+ARASAKA CORP may approve, deny, or impose additional conditions on an evaluation license at its discretion.
+
+No evaluation license exists unless it has been explicitly granted in writing by an authorized representative of ARASAKA CORP.
+
+## 5. Commercial License
+
+Commercial use outside an approved evaluation license requires a separate written commercial license agreement with the copyright holder.
+
+Commercial licenses may specify additional terms, including but not limited to:
+
+* number of users;
+* number of installations;
+* number of endpoints;
+* duration of the license;
+* permitted commercial purposes;
+* redistribution rights;
+* modification rights;
+* deployment rights;
+* support and update rights;
+* maintenance and service terms.
+
+Commercial licenses are granted only when explicitly agreed to in writing by ARASAKA CORP.
+
+## 6. Ownership
+
+The software, source code, documentation, and associated intellectual property remain the property of the copyright holder.
 
 This License does not transfer ownership or copyright.
 
-5. No Warranty
+Any rights not expressly granted by this License or by a separate written agreement are reserved by ARASAKA CORP.
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND,
-EXPRESS OR IMPLIED. TO THE MAXIMUM EXTENT PERMITTED BY LAW, THE
-COPYRIGHT HOLDER SHALL NOT BE LIABLE FOR ANY CLAIM, DAMAGES, OR
-OTHER LIABILITY ARISING FROM THE USE OF THE SOFTWARE.
+## 7. Feedback
 
-6. Termination
+Feedback, suggestions, bug reports, detection ideas, and other information voluntarily provided during an evaluation may be used by ARASAKA CORP to improve SentinelCore.
 
-Any rights granted under this License terminate automatically if
-you violate the terms of this License.
+Providing feedback does not transfer ownership of the software or grant any additional rights under this License.
 
-Upon termination, you must stop using the software and, where
-applicable, delete copies in your possession or control.
+Unless separately agreed in writing, ARASAKA CORP will not publicly identify an evaluation customer or disclose confidential customer information.
 
-7. Contact
+## 8. No Warranty
 
-For commercial licensing inquiries, contact:
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, TITLE, OR NON-INFRINGEMENT, TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW.
 
-ARASAKA CORP
-contact@arasaka-corp.eu
+THE SOFTWARE IS SECURITY SOFTWARE AND MAY FAIL TO DETECT, PREVENT, OR RESPOND TO PARTICULAR SECURITY EVENTS. IT MUST NOT BE RELIED UPON AS THE SOLE SECURITY CONTROL FOR ANY SYSTEM OR ENVIRONMENT.
+
+TO THE MAXIMUM EXTENT PERMITTED BY LAW, THE COPYRIGHT HOLDER SHALL NOT BE LIABLE FOR ANY CLAIM, DAMAGES, LOSS, OR OTHER LIABILITY ARISING FROM OR RELATED TO THE USE OF THE SOFTWARE.
+
+## 9. Evaluation Disclaimer
+
+An evaluation license is provided solely for testing and assessment.
+
+ARASAKA CORP does not guarantee that SentinelCore will meet the organization's security, compliance, performance, availability, or operational requirements.
+
+Organizations are responsible for determining whether SentinelCore is suitable for their environment before deploying it beyond the scope of an evaluation.
+
+## 10. Termination
+
+Any rights granted under this License terminate automatically if you violate its terms.
+
+An evaluation license terminates automatically when its approved evaluation period expires or when the evaluation license is otherwise terminated in writing.
+
+Upon termination, the affected organization must stop using the software and, where applicable, delete or disable copies in its possession or control, except where retention is required by law.
+
+Termination does not affect provisions that by their nature are intended to survive termination.
+
+## 11. License Changes
+
+ARASAKA CORP may publish new versions of this License for future releases of the software.
+
+Unless explicitly stated otherwise, the version of this License accompanying a particular release applies to that release.
+
+## 12. Contact
+
+For commercial licensing, evaluation licenses, or other licensing inquiries, contact:
+
+**ARASAKA CORP**
+[contact@arasaka-corp.eu](mailto:contact@arasaka-corp.eu)
+
+---
+
+**Copyright (c) 2026 ARASAKA CORP. All rights reserved.**
