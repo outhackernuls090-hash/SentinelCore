@@ -764,7 +764,7 @@ Commercial use, redistribution, sublicensing, commercial hosting, and other rest
 For commercial licensing inquiries:
 
 **Arasaka Corp**
-[contact@arasaka-corp.eu](mailto:contact@arasaka-corp.eu)
+[void@arasaka-corp.eu](mailto:void@arasaka-corp.eu)
 
 ---
 
